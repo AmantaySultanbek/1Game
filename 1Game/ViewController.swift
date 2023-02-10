@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     }
 
     func viewwindow() {
-        view.tintColor = .yellow
+        view.tintColor = .red
     }
 }
 
